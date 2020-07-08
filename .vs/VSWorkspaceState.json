@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\sms",
+    "\\student",
+    "\\teacher",
+    "\\templates",
+    "\\templates\\base",
+    "\\templates\\student",
+    "\\templates\\teacher"
+  ],
+  "SelectedNode": "\\student\\views.py",
+  "PreviewInSolutionExplorer": false
+}
